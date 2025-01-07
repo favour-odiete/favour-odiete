@@ -1,8 +1,8 @@
-👋 Hi, I’m Favour Odiete @favour-odiete
-I’m interested in every new insights to build my DevOps skills.
-I am currently learning Cyber Security.
-Reach me via mail: ifavourodiete@gmail.com
-My Pronouns: she/her
+👋 Hi, I’m Favour Odiete @favour-odiete.
+I’m eager to gain fresh insights to enhance my DevOps skills.
+Currently, I am learning Cyber Security.
+Reach me via mail: ifavourodiete@gmail.com.
+My Pronouns: she/her.
 ⚡ Fun fact: When i am not working, I am learning new recipes online 😉 
 
 <!---
