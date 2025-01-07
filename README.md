@@ -1,6 +1,6 @@
 👋 Hi, I’m Favour Odiete @favour-odiete.
-I’m eager to gain fresh insights to enhance my DevOps skills.
-Currently, I am learning Cyber Security.
+I am a Technical Support Analyst. My expertise includes troubleshooting and facilitating seamless operations in various tech environments. 
+As I am eager to gain fresh insights to enhance my DevOps skills, I am currently learning Cyber Security.
 Reach me via mail: ifavourodiete@gmail.com.
 My Pronouns: she/her.
 ⚡ Fun fact: When i am not working, I am learning new recipes online 😉 
